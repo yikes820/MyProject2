@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\EpicGames\\MyProject2\\Source\\MyProject2\\MyProject2.Build.cs",
+		"D:\\EpicGames\\MyProject2\\Source\\MyProject2.Target.cs",
+		"D:\\EpicGames\\MyProject2\\Source\\MyProject2Editor.Target.cs"
+	],
+	"EngineVersion": "5.5.2"
+}
